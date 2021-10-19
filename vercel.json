@@ -1,0 +1,49 @@
+{
+  "redirects": [
+    { 
+      "source": "/",
+      "destination": "https://mattèo.dev/", 
+      "permanent": false
+    },
+    { 
+      "source": "/cv",
+      "destination": "https://mattèo.dev/cv", 
+      "permanent": false
+    },
+    { 
+      "source": "/CV",
+      "destination": "https://mattèo.dev/cv", 
+      "permanent": false
+    },
+    { 
+      "source": "/instagram",
+      "destination": "https://instagram.com/matteogauthier_", 
+      "permanent": true
+    },
+    { 
+      "source": "/insta",
+      "destination": "https://instagram.com/matteogauthier_", 
+      "permanent": true
+    },
+    { 
+      "source": "/twitter",
+      "destination": "https://twitter.com/matteogauthier_", 
+      "permanent": true
+    },
+    { 
+      "source": "/linkedin",
+      "destination": "https://www.linkedin.com/in/matteogauthier/", 
+      "permanent": true
+    },
+    { 
+      "source": "/github",
+      "destination": "https://github.com/matteogauthier", 
+      "permanent": true
+    },
+    { 
+      "source": "/candice",
+      "destination": "https://instagram.com/can10.frd", 
+      "permanent": true
+    }
+  ]
+}
