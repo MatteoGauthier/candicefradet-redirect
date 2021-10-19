@@ -2,32 +2,22 @@
   "redirects": [
     { 
       "source": "/",
-      "destination": "https://mattèo.dev/", 
-      "permanent": false
+      "destination": "https://candice.vercel.app/CV_Candice_Fradet_2021.pdf", 
+      "permanent": true
     },
     { 
       "source": "/cv",
-      "destination": "https://mattèo.dev/cv", 
-      "permanent": false
+      "destination": "https://candice.vercel.app/CV_Candice_Fradet_2021.pdf", 
+      "permanent": true
     },
     { 
       "source": "/CV",
-      "destination": "https://mattèo.dev/cv", 
-      "permanent": false
+      "destination": "https://candice.vercel.app/CV_Candice_Fradet_2021.pdf", 
+      "permanent": true
     },
     { 
       "source": "/instagram",
-      "destination": "https://instagram.com/matteogauthier_", 
-      "permanent": true
-    },
-    { 
-      "source": "/insta",
-      "destination": "https://instagram.com/matteogauthier_", 
-      "permanent": true
-    },
-    { 
-      "source": "/twitter",
-      "destination": "https://twitter.com/matteogauthier_", 
+      "destination": "https://instagram.com/can10.frd", 
       "permanent": true
     },
     { 
@@ -36,12 +26,7 @@
       "permanent": true
     },
     { 
-      "source": "/github",
-      "destination": "https://github.com/matteogauthier", 
-      "permanent": true
-    },
-    { 
-      "source": "/candice",
+      "source": "/insta",
       "destination": "https://instagram.com/can10.frd", 
       "permanent": true
     }
